@@ -1,5 +1,4 @@
 #This is a code file for Programming Assignment #2
-##Written by Darcy Vavrek due April 26, 2015
 ##...really, this is just a modified version of the cacheMean example...
 ##
 ###Caching the Inverse of a Matrix 
